@@ -1,6 +1,6 @@
-# 💻 Sobre o desafio
+# 💻 Aplicação de tarefas - To.Do
 
-O desafio tinha como seu principal objetivo fazer uma pequena aplicação de tarefas ( ToDo ), para treinar um pouco mais sobre manipulação do estado no React.
+Pequena aplicação de tarefas para treinar conceitos de manipulação de estado no React
 
 - Adicionar uma nova tarefa
 - Remover uma tarefa
